@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ahmadmasood43
+- 👋 Hi, I’m muhammad ahmad masood.
 - 👀 I’m interested in machine learning.
 - 🌱 I’m currently learning basics of machine learning.
 - 📫 you can reach me on my email: mamasood.ce41ceme@ce.ceme.edu.pk
