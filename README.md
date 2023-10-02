@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ahmad Masood</h1>
-<h3 align="center">A passionate junior Machine Learning Engineer from Pakistan</h3>
+<h3 align="center">A passionate junior Software Engineer from Pakistan</h3>
 
 [![An image of @ahmadmasood43's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ahmadmasood43)](https://holopin.io/@ahmadmasood43)
 
@@ -12,9 +12,9 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 🤝 I’m looking for help with **Machine learning problems**
+- 🤝 I’m looking for help with **Software Engineering problems**
 
-- 💬 Ask me about **Python, Artificial Intelligence and Image Processing**
+- 💬 Ask me about **Python, Artificial Intelligence, Frontend Dev and Image Processing**
 
 - 📫 How to reach me **mamasood.ce41ceme@ce.ceme.edu.pk**
 
