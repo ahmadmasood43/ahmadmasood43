@@ -23,9 +23,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammad-ahmad-masood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-ahmad-masood" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/muhammad-ahmad-masood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="muhammad-ahmad-masood" height="30" width="40" /></a>
-<a href="https://fb.com/ahmad masood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmad masood" height="30" width="40" /></a>
-<a href="https://instagram.com/ahmad_.masood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmad_.masood" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ahmad_masood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahmad_masood" height="30" width="40" /></a>
 </p>
 
