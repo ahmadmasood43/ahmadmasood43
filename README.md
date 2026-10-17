@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ahmad Masood</h1>
-<h3 align="center">A passionate junior Software Engineer from Pakistan</h3>
+<h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
 [![An image of @ahmadmasood43's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ahmadmasood43)](https://holopin.io/@ahmadmasood43)
 
@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadmasood43" alt="ahmadmasood43" /></a> </p>
 
 
-- 🔭 I’m currently working on [Tumor Detection and Brain MRI images to VR](https://github.com/ahmadmasood43/Glioblastoma-Detection-and-VR-Conversion.git)
+- 🔭 Active Open Source Contributor at OpenCV. 
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
